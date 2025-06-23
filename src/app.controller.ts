@@ -5,7 +5,7 @@ export class AppController {
 
   @Get()
   getHello(): string {
-    return 'Made with <3 by Arker Labs';
+    return 'Made with <3 by Ernesto';
   }
 
 }
